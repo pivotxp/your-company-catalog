@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /kit.html
+Disallow: /print.html
+Disallow: /polaris.html
+Disallow: /polaris-embed.html
+Disallow: /leaderboard-embed.html
+Disallow: /_build/
+Sitemap: https://your-company.catalogs.pivotxp.com/sitemap.xml
